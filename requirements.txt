@@ -1,1 +1,11 @@
 streamlit
+transformers
+tqdm
+groq
+faiss-cpu
+torch
+nltk
+openai
+pymupdf
+pdfplumber
+numpy<2
